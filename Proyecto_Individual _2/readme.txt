@@ -1,8 +1,8 @@
-# 📊 Análisis de Datos de Conectividad - Movstar Argentina
+# 📊 Análisis de Datos de Conectividad - Metronet Argentina
 
 Datasets Utilizados
 
-Los conjuntos de datos fueron extraídos de fuentes oficiales como **ENACOM** y **INDEC**, y contienen información desde el año 2014 hasta la actualidad.
+Los conjuntos de datos fueron extraídos de fuentes oficiales de **ENACOM**, y contienen información desde el año 2014 hasta la actualidad.
 - Accesos por provincia, partido y localidad.
 - Velocidad promedio de bajada por trimestre y año.
 - Tecnologías utilizadas para brindar servicio (ADSL, Fibra óptica, etc.).
@@ -39,8 +39,7 @@ Basado en el análisis, se detectaron múltiples oportunidades que podrían guia
 
 
 --------------------------------------------------------------------------------------------------
-Conclusión:
+Objetivo del trabajo:
 
 Este análisis revela una fuerte transición tecnológica en Argentina, con una clara adopción de fibra óptica y una creciente necesidad de acceso de calidad tanto en centros urbanos como en regiones más remotas.
  
-Además, con la evolución constante del consumo digital, la empresa puede reposicionarse como una solución integral de conectividad, adaptándose rápidamente a las necesidades del mercado. La incorporación de nuevas tecnologías, la inversión en infraestructura, y una visión centrada en la experiencia del usuario, serán clave para mantenerse competitivo y relevante en un entorno tan dinámico como el de las telecomunicaciones en Argentina.
