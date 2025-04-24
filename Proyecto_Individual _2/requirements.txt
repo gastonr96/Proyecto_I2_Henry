@@ -1,0 +1,5 @@
+Librerias de Python: 
+-pandas
+-numpy
+-matplotlib
+-seaborn
